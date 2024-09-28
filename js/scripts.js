@@ -3,8 +3,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Información de las semanas
     const semanas = [
-        { numero: 1, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/fixdet2024/Aplicacion-Movil/tree/main/ejercicios%20semana3" },
-        { numero: 2, subtareas: ["Wireframes", "Prototipo"], githubUrl: "https://github.com/fixdet2024/Aplicacion-Movil/tree/main/ejercicios%20semana3" },
+        { numero: 1, subtareas: ["Investigación", "Planificación"], githubUrl: "#" },
+        { numero: 2, subtareas: ["Wireframes", "Prototipo"], githubUrl: "#" },
         { numero: 3, subtareas: ["Configuración del entorno", "Creación de la base de datos"], githubUrl: "https://github.com/fixdet2024/Aplicacion-Movil/tree/main/ejercicios%20semana3" },
         { numero: 4, subtareas: ["Con", "Creación de la base de datos"], githubUrl: "https://github.com/tuUsuario/tuRepositorio/semana4" },
         { numero: 5, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/tuUsuario/tuRepositorio/semana1" },
