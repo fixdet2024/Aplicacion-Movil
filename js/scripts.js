@@ -4,16 +4,16 @@ document.addEventListener('DOMContentLoaded', function () {
     // Información de las semanas
     const semanas = [
          { numero: 1, subtareas: ["Investigación", "Planificación"], githubUrl: "#" },
-          { numero: 2, subtareas: ["Wireframes", "Prototipo"], githubUrl: "#" },
-          { numero: 3, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/fixdet2024/Aplicacion-Movil/tree/main/ejercicios%20semana3" },
-          { numero: 4, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/fixdet2024/Aplicacion-Movil/tree/main/ejercicios%20semana4" },
-          { numero: 5, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/fixdet2024/Aplicacion-Movil/tree/main/actividad5" },
-          { numero: 6, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/fixdet2024/Aplicacion-Movil/tree/main/semana6" },
-          { numero: 7, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/tuUsuario/tuRepositorio/semana1" },
-          { numero: 8, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/tuUsuario/tuRepositorio/semana1" },
-          { numero: 9, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/tuUsuario/tuRepositorio/semana1" },
-          { numero: 10, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/tuUsuario/tuRepositorio/semana1" },
-        ];
+  { numero: 2, subtareas: ["Wireframes", "Prototipo"], githubUrl: "#" },
+  { numero: 3, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/fixdet2024/Aplicacion-Movil/tree/main/ejercicios%20semana3" },
+  { numero: 4, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/fixdet2024/Aplicacion-Movil/tree/main/ejercicios%20semana4" },
+  { numero: 5, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/fixdet2024/Aplicacion-Movil/tree/main/actividad5" },
+  { numero: 6, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/fixdet2024/Aplicacion-Movil/tree/main/semana6" },
+  { numero: 7, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/fixdet2024/Aplicacion-Movil/tree/main/semana7" }, // Reemplaza con el enlace correcto
+  { numero: 8, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/fixdet2024/Aplicacion-Movil/tree/main/semana8" }, // Reemplaza con el enlace correcto
+  { numero: 9, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/fixdet2024/Aplicacion-Movil/tree/main/semana9" }, // Reemplaza con el enlace correcto
+  { numero: 10, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/fixdet2024/Aplicacion-Movil/tree/main/semana10" }, // Reemplaza con el enlace correcto
+];
 
     // Generar las semanas
     semanas.forEach(semana => {
