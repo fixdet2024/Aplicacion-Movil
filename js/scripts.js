@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
         { numero: 3, subtareas: ["https://github.com/fixdet2024/Aplicacion-Movil/tree/main/ejercicios%20semana3"], githubUrl: "https://github.com/fixdet2024/Aplicacion-Movil/tree/main/ejercicios%20semana3"},
         { numero: 4, subtareas: ["https://github.com/fixdet2024/Aplicacion-Movil/tree/main/ejercicios%20semana4"], githubUrl: "https://github.com/fixdet2024/Aplicacion-Movil/tree/main/ejercicios%20semana4" },
         { numero: 5, subtareas: ["https://github.com/fixdet2024/Aplicacion-Movil/tree/main/actividad5"], githubUrl: "https://github.com/fixdet2024/Aplicacion-Movil/tree/main/actividad5" },
-        { numero: 6, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/tuUsuario/tuRepositorio/semana1" },
+        { numero: 6, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/fixdet2024/Aplicacion-Movil/tree/main/semana6" },
         { numero: 7, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/tuUsuario/tuRepositorio/semana1" },
         { numero: 8, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/tuUsuario/tuRepositorio/semana1" },
         { numero: 9, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/tuUsuario/tuRepositorio/semana1" },
