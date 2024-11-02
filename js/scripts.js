@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function () {
         { numero: 5, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/fixdet2024/Aplicacion-Movil/tree/main/actividad5" },
         { numero: 6, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/fixdet2024/Aplicacion-Movil/tree/main/semana6" },
         { numero: 7, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/fixdet2024/Aplicacion-Movil/tree/main/semana7" },
-        { numero: 8, subtareas: ["Investigación", "Planificación"], githubUrl: "https://iestpcajas-my.sharepoint.com/:f:/g/personal/73460689_institutocajas_edu_pe/Eh4CgPqv8jxBr6M9rDid4I4BQH8k_0KvnkvfZOcnLQhceA?e=msgybC" },
+        { numero: 8, subtareas: ["Investigación", "Planificación"], githubUrl: "https://iestpcajas-my.sharepoint.com/my?id=%2Fpersonal%2F73460689%5Finstitutocajas%5Fedu%5Fpe%2FDocuments%2Ftarea%5Fsemana8%5Fprogramacion%5Fapp" },
         { numero: 9, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/fixdet2024/Aplicacion-Movil/tree/main/semana9" },
         { numero: 10, subtareas: ["Investigación", "Planificación"], githubUrl: "https://github.com/fixdet2024/Aplicacion-Movil/tree/main/semana10" },
     ];
